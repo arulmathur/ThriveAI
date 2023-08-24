@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "doctor": "6",
+        "note": "Hi, _, based on your respiratory test results and CT scan, it appears you have been infected by the omicron variant of the COVID-19 virus. Your next steps should include quarantining for a full 14 days and symptom management with over the counter medicine like Ibuprofen. Best, __",
+        "info": {
+            "age": 69,
+            "name": "Billy",
+            "sex": "Male"
+        },
+        "hasCovid": true,
+        "scans": {
+            "original": "./database/patient1/Patient1.png",
+            "cam": "./database/patient1/Patient1_CAM.png"
+        }
+    },
+    {
+        "id": "2",
+        "doctor": "6",
+        "note": "",
+        "info": {
+            "age": 21,
+            "name": "Edwin",
+            "sex": "Male"
+        },
+        "hasCovid": true,
+        "scans": {
+            "original": "./database/patient2/Patient2.png",
+            "cam": "./database/patient2/Patient2_CAM.png"
+        }
+    },
+    {
+        "id": "3",
+        "doctor": "7",
+        "note": "",
+        "info": {
+            "age": 18,
+            "name": "Sarah",
+            "sex": "Female"
+        },
+        "hasCovid": true,
+        "scans": {
+            "original": "./database/patient3/Patient3.png",
+            "cam": "./database/patient3/Patient3_CAM.png"
+        }
+    },
+    {
+        "id": "4",
+        "doctor": "7",
+        "note": "",
+        "info": {
+            "age": 19,
+            "name": "Tony",
+            "sex": "Male"
+        },
+        "hasCovid": false,
+        "scans": {
+            "original": "./database/patient1/Patient4.png",
+            "cam": "./database/patient1/Patient4_CAM.png"
+        }
+    },
+    {
+        "id": "5",
+        "doctor": "8",
+        "note": "",
+        "info": {
+            "age": 27,
+            "name": "Clara",
+            "sex": "Female"
+        },
+        "hasCovid": false,
+        "scans": {
+            "original": "./database/patient5/Patient5.png",
+            "cam": "./database/patient5/Patient5_CAM.png"
+        }
+    }
+]

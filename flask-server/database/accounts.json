@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "role": "patient",
+        "username": "jerry",
+        "salted": "$2b$12$UW6zoD8Ivp.SKjR3zwZV6ObXTDwjwi7T7vRCmZbJfJv3w3b.99LQS"
+    },
+    {
+        "id": "2",
+        "role": "patient",
+        "username": "blueberry",
+        "salted": "$2b$12$UW6zoD8Ivp.SKjR3zwZV6ObXTDwjwi7T7vRCmZbJfJv3w3b.99LQS"
+    },
+    {
+        "id": "3",
+        "role": "patient",
+        "username": "terry",
+        "salted": "$2b$12$UW6zoD8Ivp.SKjR3zwZV6ObXTDwjwi7T7vRCmZbJfJv3w3b.99LQS"
+    },
+    {
+        "id": "4",
+        "role": "patient",
+        "username": "lerry",
+        "salted": "$2b$12$UW6zoD8Ivp.SKjR3zwZV6ObXTDwjwi7T7vRCmZbJfJv3w3b.99LQS"
+    },
+    {
+        "id": "5",
+        "role": "patient",
+        "username": "bob",
+        "salted": "$2b$12$UW6zoD8Ivp.SKjR3zwZV6ObXTDwjwi7T7vRCmZbJfJv3w3b.99LQS"
+    },
+    {
+        "id": "6",
+        "role": "doctor",
+        "username": "kevin",
+        "salted": "$2b$12$PRTJy7EVbBpzvn0ePdGifOtMPZgh7ufWXo7Tkq59z5h/dFd0SYcsi"
+    },
+    {
+        "id": "7",
+        "role": "doctor",
+        "username": "jason",
+        "salted": "$2b$12$PRTJy7EVbBpzvn0ePdGifOtMPZgh7ufWXo7Tkq59z5h/dFd0SYcsi"
+    },
+    {
+        "id": "8",
+        "role": "doctor",
+        "username": "alex",
+        "salted": "$2b$12$PRTJy7EVbBpzvn0ePdGifOtMPZgh7ufWXo7Tkq59z5h/dFd0SYcsi"
+    }
+]
